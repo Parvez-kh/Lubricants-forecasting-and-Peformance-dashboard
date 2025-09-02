@@ -58,7 +58,7 @@ This Power BI project analyzes and evaluates the demand forecasting performance 
 ## 🖼️ Preview
 
 ![Dashboard Screenshot](images/dashboard-preview.png)
-
+https://github.com/Parvez-kh/Lubricants-forecasting-and-Peformance-dashboard/blob/main/Lubricants%20Co%20Forecasting%20and%20Performance%20Dashboard.png
 ---
 
 ## 📝 License
